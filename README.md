@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm Jose Diaz
 
-<img align='right' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='200"'>  
+<img align='right' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='100"'>  
 
 **Software Engineer | Afro-Dominican | Boston-Based**  
 
