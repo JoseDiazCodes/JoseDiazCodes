@@ -1,5 +1,7 @@
 # Hello, World! 👋 I'm Jose Diaz
 
+<img align='right' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='200"'>  
+
 **Software Engineer | Afro-Dominican | Boston-Based**  
 
 Bringing passion and resilience to the tech scene, one line of code at a time. I’ve embraced the ever-evolving world of technology and am equipped with a diverse skill set from UMass Boston, ready to make valuable contributions.
