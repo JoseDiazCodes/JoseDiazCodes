@@ -27,5 +27,4 @@ Bringing passion and resilience to the tech scene, one line of code at a time. I
 - 📝 [Blog](YOUR_BLOG_LINK) (🔜 Coming Soon!)
 - 🚀 [GitHub](https://github.com/JoseDiazCodes)
 - 🐦 [Twitter](https://twitter.com/HozayDev)
-
-- 📧 Email - josediazjr.og@gmail.com
+- 📧 [Email](josediazjr.og@gmail.com)
