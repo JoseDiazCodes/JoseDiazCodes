@@ -10,6 +10,13 @@ Bringing passion and resilience to the tech scene, one line of code at a time. I
 
 ---
 
+## 📜 &nbsp;Who Am I?
+
+Every coder has a story. Dive into my personal journey and learn about the experiences that shape my coding philosophy.
+[Read more about my story here](https://github.com/JoseDiazCodes/professionalDocs/blob/main/delblurb.md).
+
+---
+
 ### 🛠 &nbsp;Tech Stack
 
 - **Frontend:** HTML5 | CSS3 | JavaScript | React.js | Next.js
