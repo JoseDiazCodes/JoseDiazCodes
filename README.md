@@ -30,7 +30,7 @@ Every coder has a story. Dive into my personal journey and learn about the exper
 ### 📬 &nbsp;Get in Touch
 
 - 💼 [LinkedIn](https://linkedin.com/in/josediazdev)
-- 🌐 [Personal Website](https://josediazdev.com) (🔜 Coming Soon!)
+- 🌐 [Personal Website](https://josediazdev.com)
 - 📝 [Blog](YOUR_BLOG_LINK) (🔜 Coming Soon!)
 - 🚀 [GitHub](https://github.com/JoseDiazCodes)
 - 🐦 [Twitter](https://twitter.com/HozayDev)
