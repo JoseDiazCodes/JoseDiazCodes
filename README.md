@@ -5,15 +5,8 @@
 Bringing passion and resilience to the tech scene, one line of code at a time. I’ve embraced the ever-evolving world of technology and am equipped with a diverse skill set from UMass Boston, ready to make valuable contributions.
 
 🔭 **Currently Working on:** Web Development Projects  
-🌱 **Learning:** Full-stack Development using JavaScript, Docker, MongoDB, Next.js, and React.js  
+🌱 **Learning:** Full-stack Development using JavaScript, Docker, MongoDB, Next.js, React.js, and python
 ⚡ **Fun Fact:** When I'm not coding, I'm either on the slopes snowboarding or in the gym bodybuilding.
-
----
-
-## 📜 &nbsp;Who Am I?
-
-Every coder has a story. Dive into my personal journey and learn about the experiences that shape my coding philosophy.
-[Read more about my story here](https://github.com/JoseDiazCodes/professionalDocs/blob/main/delblurb.md).
 
 ---
 
@@ -31,7 +24,7 @@ Every coder has a story. Dive into my personal journey and learn about the exper
 
 - 💼 [LinkedIn](https://linkedin.com/in/josediazdev)
 - 🌐 [Personal Website](https://josediazdev.com)
-- 📝 [Blog](YOUR_BLOG_LINK) (🔜 Coming Soon!)
 - 🚀 [GitHub](https://github.com/JoseDiazCodes)
-- 🐦 [Twitter](https://twitter.com/HozayDev)
+- 🐦 [Twitter](https://twitter.com/josediazdev)
 - 📧 [Email](josediazjr.og@gmail.com)
+- 📝 [Blog](YOUR_BLOG_LINK) (🔜 Coming Soon!)
