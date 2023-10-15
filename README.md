@@ -4,6 +4,8 @@
 
 Bringing passion and resilience to the tech scene, one line of code at a time. I’ve embraced the ever-evolving world of technology and am equipped with a diverse skill set from UMass Boston, ready to make valuable contributions.
 
+<a href="https://twitter.com/diazjosedev" target="_blank"><img src="https://img.shields.io/twitter/follow/diazjosedev?style=social" alt="Follow me on Twitter"></a>
+
 [My Website :)](https://josediazdev.com)
 
 🔭 **Currently Working on:** Web Development Projects  
