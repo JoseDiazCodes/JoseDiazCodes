@@ -1,4 +1,4 @@
-**Hello, World! 👋 I'm Jose Diaz**
+# **Hello, World! 👋 I'm Jose Diaz**
 
 **Software Engineer | Afro-Dominican | Boston-Based**
 
@@ -20,10 +20,10 @@ Bringing passion and resilience to the tech scene, one line of code at a time. I
 
 ---
 
-### 📬 &nbsp;Get in Touch
+### 📬 **&nbsp;Get in Touch**
 
 - 💼 [LinkedIn](https://linkedin.com/in/josediazdev)
 - 🌐 [Personal Website](https://josediazdev.com)
 - 🐦 [Twitter](https://twitter.com/diazjosedev)
 - 📧 Email: josediazjr.og@gmail.com
-- 📝 [Blog](YOUR_BLOG_LINK) (🔜 Coming Soon!)
+<!-- - 📝 [Blog](YOUR_BLOG_LINK) (🔜 Coming Soon!) -->
