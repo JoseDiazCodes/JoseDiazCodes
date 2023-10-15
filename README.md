@@ -1,4 +1,4 @@
-# Hello, World! 👋 I'm Jose Diaz
+**Hello, World! 👋 I'm Jose Diaz**
 
 **Software Engineer | Afro-Dominican | Boston-Based**
 
@@ -10,7 +10,7 @@ Bringing passion and resilience to the tech scene, one line of code at a time. I
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 **&nbsp;Tech Stack**
 
 - **Frontend:** HTML5 | CSS3 | JavaScript | React.js | Next.js
 - **Backend:** Node.js | MongoDB
@@ -24,7 +24,6 @@ Bringing passion and resilience to the tech scene, one line of code at a time. I
 
 - 💼 [LinkedIn](https://linkedin.com/in/josediazdev)
 - 🌐 [Personal Website](https://josediazdev.com)
-- 🚀 [GitHub](https://github.com/JoseDiazCodes)
-- 🐦 [Twitter](https://twitter.com/josediazdev)
-- 📧 [Email](josediazjr.og@gmail.com)
+- 🐦 [Twitter](https://twitter.com/diazjosedev)
+- 📧 Email: josediazjr.og@gmail.com
 - 📝 [Blog](YOUR_BLOG_LINK) (🔜 Coming Soon!)
