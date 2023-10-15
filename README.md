@@ -1,5 +1,3 @@
-<div align="center">
-
 # **Hello, World! 👋 I'm Jose Diaz**
 
 **Software Engineer | Afro-Dominican | Boston-Based**
@@ -47,5 +45,3 @@ I am enthusiastic about contributing to open-source projects and collaborating w
 - 🐦 [Twitter](https://twitter.com/diazjosedev)
 - 📧 Email: josediazjr.og@gmail.com
 <!-- - 📝 [Blog](YOUR_BLOG_LINK) (🔜 Coming Soon!) -->
-
-</div>
