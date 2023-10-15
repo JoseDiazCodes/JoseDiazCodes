@@ -41,7 +41,7 @@ I am enthusiastic about contributing to open-source projects and collaborating w
 ### 📬 **&nbsp;Get in Touch**
 
 - 💼 [LinkedIn](https://linkedin.com/in/josediazdev)
-- 🌐 [Personal Website](https://josediazdev.com)
-- 🐦 [Twitter](https://twitter.com/diazjosedev)
+<!-- - 🌐 [Personal Website](https://josediazdev.com)
+- 🐦 [Twitter](https://twitter.com/diazjosedev) -->
 - 📧 Email: josediazjr.og@gmail.com
 <!-- - 📝 [Blog](YOUR_BLOG_LINK) (🔜 Coming Soon!) -->
