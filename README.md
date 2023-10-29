@@ -64,15 +64,11 @@ Find more of my writing [here](https://github.com/JoseDiazCodes/DevJournal).
 
 ---
 
----
-
----
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseDiazCodes&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&line_height=28&hide=stars,contribs" alt="Jose's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseDiazCodes&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&line_height=35&hide=stars,contribs" width="420" alt="Jose's GitHub Stats" />
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDiazCodes&theme=default&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDiazCodes&theme=default&hide_border=true&layout=compact" width="350" alt="Top Languages" />
 </div>
 
-Together, we can create something extraordinary!
+### Together, we can create something extraordinary!
