@@ -1,49 +1,56 @@
-# **Hello, World! 👋 I'm Jose Diaz**
+# **Jose Diaz – Software Engineer**
 
-**Software Engineer | Afro-Dominican | Boston-Based**
+👋 Greetings! I'm Jose, a Software Engineer from Boston with Afro-Dominican roots. I am on a mission to decode challenges and create a positive impact in the tech world, one line of code at a time.
 
-Bringing passion and resilience to the tech scene, one line of code at a time. I’ve embraced the ever-evolving world of technology and am equipped with a diverse skill set from UMass Boston, ready to make valuable contributions.
-
-<a href="https://twitter.com/diazjosedev" target="_blank"><img src="https://img.shields.io/twitter/follow/diazjosedev?style=social" alt="Follow me on Twitter"></a>
-
-[My Portfolio Website](https://josediazdev.com)
+![Profile Views](https://komarev.com/ghpvc/?username=JoseDiazCodes&color=brightgreen)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/diazjosedev?style=social)](https://twitter.com/diazjosedev)
+[![Explore My Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet)](https://josediazdev.com)
 
 ---
 
-### 🚀 **Current Projects**
+### 💼 **Professional Journey**
 
-**Client's Website:** I'm actively developing a comprehensive website for a client, integrating the latest web technologies to provide an optimal user experience.
+**Education:**
 
-**SmartEdu Buddy:** Currently in its inception phase, I'm working on this web application to help bridge the educational gap for students from diverse backgrounds. This project aims to personalize learning experiences for students. More updates and progress on this will be committed here on GitHub.
+- 🎓 BSc in Business Finance  
+   _University of Massachusetts Boston_
 
----
+**Current Endeavors:**
 
-### 🤝 **Open to Collaboration**
-
-I am enthusiastic about contributing to open-source projects and collaborating with fellow developers. If you have a project in mind or need a helping hand in the open-source realm, feel free to reach out!
-
----
-
-🔭 **Ongoing Work:** Web Development Projects  
-🌱 **Learning:** Full-stack Development using JavaScript, Docker, MongoDB, Next.js, React.js, and python  
-⚡ **Fun Fact:** When I'm not coding, I'm either on the slopes snowboarding or in the gym bodybuilding.
+- 🔨 **Client’s Digital Transformation:** Crafting an interactive website with cutting-edge technology.
+- 📚 **SmartEdu Development:** Enhancing educational engagement for middle and high school students.
+- ✍️ **Daily Blogging:** Sharing my coding adventures, insights, and lessons learned on [DevJournal](https://github.com/JoseDiazCodes/DevJournal). Join me from November 1st, 2023!
 
 ---
 
-### 🛠 **&nbsp;Tech Stack**
+### 🛠 **Technology Stack**
 
-- **Frontend:** HTML5 | CSS3 | JavaScript | React.js | Next.js
-- **Backend:** Node.js | MongoDB
-- **DevOps:** Docker
-- **Languages:** JavaScript | Java
-- **Tools:** Git | GitHub | VSCode | iTerm | Warp | Figma
+- **Frontend:** `HTML5`, `CSS3`, `JavaScript`, `React.js`, `Next.js`
+- **Backend:** `Node.js`, `MongoDB`
+- **DevOps:** `Docker`
+- **Languages:** `JavaScript`, `Java`
+- **Tools:** `Git`, `GitHub`, `VSCode`, `iTerm`, `Warp`, `Figma`
 
 ---
 
-### 📬 **&nbsp;Get in Touch**
+### 🌱 **Growing & Learning**
 
-- 💼 [LinkedIn](https://linkedin.com/in/josediazdev)
-<!-- - 🌐 [Personal Website](https://josediazdev.com)
-- 🐦 [Twitter](https://twitter.com/diazjosedev) -->
-- 📧 Email: josediazjr.og@gmail.com
-<!-- - 📝 [Blog](YOUR_BLOG_LINK) (🔜 Coming Soon!) -->
+- **Now Learning:** Full-stack development, Docker, MongoDB, Next.js, React.js, Python
+- **Hobbies:** Snowboarding, Bodybuilding
+
+---
+
+### 🤝 **Open Source & Collaboration**
+
+Keen on diving into open source, I am actively seeking opportunities to contribute to meaningful projects. Whether it's fixing bugs, adding features, or enhancing documentation, I am all in for collaborative innovation and learning.
+
+**Connect with Me:**
+
+- 💻 [LinkedIn](https://linkedin.com/in/josediazdev)
+- 📧 josediazjr.og@gmail.com
+
+---
+
+![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseDiazCodes&show_icons=true&theme=radical)
+
+Embarking on this journey, I believe that together, we can create something extraordinary!
