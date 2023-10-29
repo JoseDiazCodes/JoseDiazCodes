@@ -65,10 +65,11 @@ Find more of my writing [here](https://github.com/JoseDiazCodes/DevJournal).
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseDiazCodes&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&line_height=35&hide=stars,contribs" width="420" alt="Jose's GitHub Stats" />
-</div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDiazCodes&theme=default&hide_border=true&layout=compact" width="350" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseDiazCodes&show_icons=true&theme=dark&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&line_height=28" width="500" alt="Jose's GitHub Stats" />
 </div>
 
-### Together, we can create something extraordinary!
+---
+
+### 💪 Together, we can create something extraordinary!
+
+Feel free to connect, explore, and let’s make the digital world a better place!
