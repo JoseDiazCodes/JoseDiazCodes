@@ -1,9 +1,9 @@
 # **Jose Diaz – Software Engineer**
 
-👋 Greetings! I'm Jose, a Software Engineer from Boston with Afro-Dominican roots. I am on a mission to decode challenges and create a positive impact in the tech world, one line of code at a time.
+👋 Greetings! I'm Jose, a Software Engineer from Boston, celebrating my Afro-Dominican heritage. I am passionately decoding challenges and innovating in the tech world, one line of code at a time.
 
-![Profile Views](https://komarev.com/ghpvc/?username=JoseDiazCodes&color=orange) &nbsp;
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/diazjosedev?style=social)](https://twitter.com/diazjosedev) &nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=JoseDiazCodes&color=orange)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/diazjosedev?style=social)](https://twitter.com/diazjosedev)
 [![Explore My Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://josediazdev.com)
 
 ---
@@ -17,9 +17,9 @@
 
 **Current Endeavors:**
 
-- 🔨 **Client’s Digital Transformation:** Crafting an interactive website with cutting-edge technology.
-- 📚 **SmartEdu Development:** Enhancing educational engagement for middle and high school students.
-- ✍️ **Daily Blogging:** Sharing my coding adventures, insights, and lessons learned on [DevJournal](https://github.com/JoseDiazCodes/DevJournal). Join me from November 1st, 2023!
+- 🔨 **Client’s Digital Transformation:** I am in the process of crafting an innovative and interactive website, utilizing the latest in web technology.
+- 📚 **SmartEdu Development:** I'm on a mission to enhance the educational experience for students in middle and high school, ensuring engagement and accessibility.
+- ✍️ **Daily Blogging:** Join me on my coding adventures, insights, and learnings at [DevJournal](https://github.com/JoseDiazCodes/DevJournal), starting November 1st, 2023!
 
 ---
 
@@ -42,7 +42,7 @@
 
 ### 🤝 **Open Source & Collaboration**
 
-Keen on diving into open source, I am actively seeking opportunities to contribute to meaningful projects. Whether it's fixing bugs, adding features, or enhancing documentation, I am all in for collaborative innovation and learning.
+I am eagerly diving into open source and actively seeking opportunities to contribute to impactful projects. Whether it's fixing bugs, adding features, or enhancing documentation, I am ready for collaborative innovation and learning.
 
 **Connect with Me:**
 
@@ -55,19 +55,15 @@ Keen on diving into open source, I am actively seeking opportunities to contribu
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Post Title 1](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post1.md)
-- [Post Title 2](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post2.md)
-- [Post Title 3](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post3.md)
+- [Adventures in Code: Day One](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post1.md)
+- [Reflections on Software: Day Two](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post2.md)
+- [Coding Challenges: Day Three](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post3.md)
 <!-- BLOG-POST-LIST:END -->
 
-More blog posts [here](https://github.com/JoseDiazCodes/DevJournal).
+Find more of my writing [here](https://github.com/JoseDiazCodes/DevJournal).
 
 ---
 
-<p align="center">
-  <a href="https://github.com/JoseDiazCodes">
-    <img alt="Jose's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoseDiazCodes&show_icons=true&theme=radical&line_height=20" />
-  </a>
-</p>
+![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseDiazCodes&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&line_height=28)
 
-Embarking on this journey, I believe that together, we can create something extraordinary!
+Together, we can create something extraordinary!
