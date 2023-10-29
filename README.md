@@ -2,7 +2,7 @@
 
 👋 Greetings! I'm Jose, a Software Engineer from Boston with Afro-Dominican roots. I am on a mission to decode challenges and create a positive impact in the tech world, one line of code at a time.
 
-![Profile Views](https://komarev.com/ghpvc/?username=JoseDiazCodes&color=black)
+![Profile Views](https://komarev.com/ghpvc/?username=JoseDiazCodes&color=orange)
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/diazjosedev?style=social)](https://twitter.com/diazjosedev)
 [![Explore My Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://josediazdev.com)
 
