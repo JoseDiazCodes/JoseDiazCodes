@@ -53,11 +53,12 @@ I am eagerly diving into open source and actively seeking opportunities to contr
 
 ### 📖 **Latest Blog Posts**
 
-<!-- BLOG-POST-LIST:START -->
+**WIP**
 
-- [Adventures in Code: Day One](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post1.md)
+<!-- BLOG-POST-LIST:START -->
+<!-- - [Adventures in Code: Day One](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post1.md)
 - [Reflections on Software: Day Two](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post2.md)
-- [Coding Challenges: Day Three](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post3.md)
+- [Coding Challenges: Day Three](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post3.md) -->
 <!-- BLOG-POST-LIST:END -->
 
 Find more of my writing [here](https://github.com/JoseDiazCodes/DevJournal).
