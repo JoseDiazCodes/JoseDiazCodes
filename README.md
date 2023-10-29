@@ -51,6 +51,23 @@ Keen on diving into open source, I am actively seeking opportunities to contribu
 
 ---
 
-![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseDiazCodes&show_icons=true&theme=radical)
+### 📖 **Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Post Title 1](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post1.md)
+- [Post Title 2](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post2.md)
+- [Post Title 3](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post3.md)
+<!-- BLOG-POST-LIST:END -->
+
+More blog posts [here](https://github.com/JoseDiazCodes/DevJournal).
+
+---
+
+<p align="center">
+  <a href="https://github.com/JoseDiazCodes">
+    <img alt="Jose's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoseDiazCodes&show_icons=true&theme=radical&line_height=20" />
+  </a>
+</p>
 
 Embarking on this journey, I believe that together, we can create something extraordinary!
