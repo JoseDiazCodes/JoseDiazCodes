@@ -55,11 +55,11 @@ I am eagerly diving into open source and actively seeking opportunities to contr
 
 **WIP**
 
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Adventures in Code: Day One](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post1.md)
-- [Reflections on Software: Day Two](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post2.md)
-- [Coding Challenges: Day Three](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/post3.md) -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START
+
+- [The Start: Day One](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/2023-11-02.md)
+
+BLOG-POST-LIST:END
 
 Find more of my writing [here](https://github.com/JoseDiazCodes/DevJournal).
 
