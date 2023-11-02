@@ -55,11 +55,7 @@ I am eagerly diving into open source and actively seeking opportunities to contr
 
 **WIP**
 
-BLOG-POST-LIST:START
-
 - [The Start: Day One](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/2023-11-02.md)
-
-BLOG-POST-LIST:END
 
 Find more of my writing [here](https://github.com/JoseDiazCodes/DevJournal).
 
