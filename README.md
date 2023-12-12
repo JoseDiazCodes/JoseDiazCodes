@@ -51,22 +51,6 @@ I am eagerly diving into open source and actively seeking opportunities to contr
 
 ---
 
-### 📖 **Latest Blog Posts**
-
-<!-- **WIP** -->
-
-- **[The Start: Day One](https://github.com/JoseDiazCodes/DevJournal/blob/main/entries/2023-11-02.md)**
-
-Find more of my writing [here](https://github.com/JoseDiazCodes/DevJournal).
-
----
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseDiazCodes&show_icons=true&theme=dark&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&line_height=28" width="500" alt="Jose's GitHub Stats" />
-</div>
-
----
-
 ### 💪 Together, we can create something extraordinary!
 
 Feel free to connect, explore, and let’s make the digital world a better place!
