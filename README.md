@@ -39,7 +39,7 @@
 
 ### 🌱 **Growing & Learning**
 
-- **Now Learning:** Rust, Next.js, Docker
+- **Now Learning:** Rust, Next.js, Docker, Vue.js, Angular
 - **Hobbies:** Snowboarding, Bodybuilding, and Gaming
 
 ---
