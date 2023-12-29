@@ -1,6 +1,6 @@
 # **Jose Diaz – Software Engineer**
 
-👋 Greetings! I'm Jose, a Software Engineer from Boston, celebrating my Afro-Dominican heritage. I am passionately decoding challenges and innovating in the tech world, one line of code at a time.
+👋 Hello World! I'm Jose Diaz, a Boston-based Software Engineer with proud Afro-Dominican roots. With each line of code, I embrace the fusion of my cultural heritage and tech expertise. My journey is about more than just solving problems; it's about innovating, creating, and making a meaningful impact in the tech sphere, drawing inspiration from my diverse life experiences.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoseDiazCodes&color=orange)
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/diazjosedev?style=social)](https://twitter.com/diazjosedev)
@@ -14,35 +14,39 @@
 
 - 🎓 BSc in Business Finance  
    _University of Massachusetts Boston_
+- 🎓 Pursuing MSc in Computer Science  
+   _Northeastern University_
 
 **Current Endeavors:**
 
-- 🔨 **Client’s Digital Transformation:** I am in the process of crafting an innovative and interactive website, utilizing the latest in web technology.
-- 📚 **SmartEdu Development:** I'm on a mission to enhance the educational experience for students in middle and high school, ensuring engagement and accessibility.
-- ✍️ **Daily Blogging:** Join me on my coding adventures, insights, and learnings at [DevJournal](https://github.com/JoseDiazCodes/DevJournal), starting November 1st, 2023!
+- 🔨 **Hack.Diversity Fellowship:** Engaging in a dynamic learning environment as a fellow at Hack.Diversity.
+- 🥫 **OpenSource Nourish Community Fridge Project:** Developing a website to help people find community fridges and pantries, and engage in volunteering through a community message board.
+- 🖥️ **Client’s Digital Transformation:** Crafting an innovative and interactive website using the latest web technologies.
 
 ---
 
 ### 🛠 **Technology Stack**
 
-- **Frontend:** `HTML5`, `CSS3`, `JavaScript`, `React.js`, `Next.js`
-- **Backend:** `Node.js`, `MongoDB`
+- **Frontend:** `HTML5`, `CSS3`, `JavaScript`, `React.js`, `Next.js`, `Ejs`
+- **Backend:** `Node.js`, `MongoDB`, `Express.js`
 - **DevOps:** `Docker`
-- **Languages:** `JavaScript`, `Java`
-- **Tools:** `Git`, `GitHub`, `VSCode`, `iTerm`, `Warp`, `Figma`
+- **Languages:** `JavaScript`, `Java`, `Rust`
+- **Testing:** `Jest`
+- **Paradigms:** `MVC (Model/View/Controller)`, `Functional Programming`, `Object Oriented Programming`
+- **Tools:** `Git`, `GitHub`, `VSCode`, `Figma`
 
 ---
 
 ### 🌱 **Growing & Learning**
 
-- **Now Learning:** Full-stack development, Docker, MongoDB, Next.js, React.js, Python
-- **Hobbies:** Snowboarding, Bodybuilding
+- **Now Learning:** Rust, Next.js, Docker
+- **Hobbies:** Snowboarding, Bodybuilding, and Gaming
 
 ---
 
 ### 🤝 **Open Source & Collaboration**
 
-I am eagerly diving into open source and actively seeking opportunities to contribute to impactful projects. Whether it's fixing bugs, adding features, or enhancing documentation, I am ready for collaborative innovation and learning.
+I am actively involved in open source, contributing to projects that make a difference. I'm committed to collaborative innovation and learning, whether it's through coding, bug fixing, feature development, or enhancing documentation.
 
 **Connect with Me:**
 
