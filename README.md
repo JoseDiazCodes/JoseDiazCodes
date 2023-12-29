@@ -52,7 +52,7 @@ I am actively involved in open source, contributing to projects that make a diff
 
 - 💻 [LinkedIn](https://linkedin.com/in/josediazdev)
 - 📧 josediazjr.og@gmail.com
-- 🍱 [Bento](https://bento.me/josedev)
+- 🍱 [Bento.me](https://bento.me/josedev)
 
 ---
 
