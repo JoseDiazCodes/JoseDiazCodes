@@ -20,7 +20,7 @@
 **Current Endeavors:**
 
 - 🔨 **Hack.Diversity Fellowship:** Engaging in a dynamic learning environment as a fellow at Hack.Diversity.
-- 🥫 **OpenSource Nourish Community Fridge Project:** Developing an open-source fullstack web application to help people find community fridges and pantries, and engage in volunteering through a community message board.
+- 🥫 **OpenSource Nourish Community Fridge Project:** Contributing to an **open-source fullstack web application** to help people find community fridges and pantries, and engage in volunteering through a community message board (Based out of Boston/Philly area).
 - 🖥️ **Client’s Digital Transformation:** Crafting an innovative and interactive website using the latest web technologies.
 
 ---
