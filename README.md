@@ -12,10 +12,10 @@
 
 **Education:**
 
-- 🎓 BSc in Business Finance  
-   _University of Massachusetts Boston_
 - 🎓 Pursuing MSc in Computer Science  
    _Northeastern University_
+- 🎓 BSc in Business Finance  
+   _University of Massachusetts Boston_
 
 **Current Endeavors:**
 
